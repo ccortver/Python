@@ -1,0 +1,4 @@
+Nombre 	Apellidos	Edad 	Mascotas
+Carlos	Cortezón Verdeja	22		No
+Rosa	Delgado Saez 	46 		Luna
+Luis	Marco García	33 		Sol
